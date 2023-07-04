@@ -24,5 +24,4 @@ If you're seeking reliable, professional, and top-quality electrical services in
 
 For more information, <br>
 Phone: `+101010101`<br>
-Email: [support@elec.work](mailto:support@elec.work)<br>
-Website: [elec.work](https://elec.work)
+Email: [support@elec.work](mailto:support@elec.work)
