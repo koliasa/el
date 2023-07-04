@@ -27,8 +27,9 @@ Phone: `+101010101`<br>
 Email: [support@elec.work](mailto:support@elec.work)
 
 ```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
