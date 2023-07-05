@@ -25,12 +25,3 @@ If you're seeking reliable, professional, and top-quality electrical services in
 For more information, <br>
 Phone: `+101010101`<br>
 Email: [support@elec.work](mailto:support@elec.work)
-
-```mermaid
-graph TD
-A[Процес починається] --> B{Умова}
-B -->|Так| C[Виконати дію 1]
-B -->|Ні| D[Виконати дію 2]
-C --> E[Кінець процесу]
-D --> E
-```
