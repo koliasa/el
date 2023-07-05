@@ -1,6 +1,6 @@
-## Electrical Work
+## ELECTRICAL WORK
 
-Welcome to elec.work, the official page of your premier electrical contracting company serving the Philadelphia area. We take immense pride in delivering exceptional electrical services and solutions to residential, commercial, and industrial clients.
+Welcome to Elec, the official page of your premier electrical contracting company serving the Philadelphia area. We take immense pride in delivering exceptional electrical services and solutions to residential, commercial, and industrial clients.
 
 ### Our Advantages:
 
