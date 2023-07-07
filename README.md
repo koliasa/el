@@ -23,5 +23,5 @@ As a reputable electrical contractor in Philadelphia, we strictly adhere to all 
 If you're seeking reliable, professional, and top-quality electrical services in Philadelphia, look no further than elec. Connect with us to discuss your project requirements, request a quote, or learn more about our extensive portfolio.
 
 For more information, <br>
-Phone: `+1 (215) 000-0000`<br>
+Phone: `+1(215)000-0000`<br>
 Email: [support@elec.work](mailto:support@elec.work)
